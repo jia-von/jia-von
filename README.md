@@ -6,7 +6,7 @@
 -->
 
 I'm Jia! I am currently a burgeoning software developer interested in numerous aspects of open source software development. I am still learning the ropes and you are welcome to give me any feedback. Current projects I am working on myself:
-- Completing [Ubuntu Linux Bible](https://www.amazon.ca/Linux-Bible-Christopher-Negus/dp/111821854X) exercises
+- Completing [Ubuntu Linux Bible](https://www.amazon.ca/Linux-Bible-Christopher-Negus/dp/111821854X) exercises - Chapter 3
 - A Beginner’s Guide to Linux Kernel Development ([LFD103](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/))
 
 ### Skills
