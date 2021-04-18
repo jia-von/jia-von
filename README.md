@@ -10,8 +10,8 @@ I'm Jia! I am currently a burgeoning software developer interested in numerous a
 - A Beginner’s Guide to Linux Kernel Development ([LFD103](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/))
 
 ### Skills
-- 🖥️ I am a fullstack software developer: JavaScript - ReactJS - MySQL - PHP - .NET CORE
-- 🗄️ Linux system administration
+- 🖥️ JavaScript - ReactJS - MySQL - PHP - .NET CORE
+- 🗄️ Basic Linux system administration
 - ☁️ Cloud technologies: Docker, AWS
 - 📎 Technical writing/software documentation
 - 🌲 Environmental data analyses
