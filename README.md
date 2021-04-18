@@ -23,7 +23,7 @@ I'm Jia! I am currently a burgeoning software developer interested in numerous a
 ### TL;DR
 My interest in Linux started on December 2020, when I was introduced to my first Raspberry Pi 4. That Christmas gift changed my view and relationship with computers forever. I have been exploring and engaging with Linux ever since. 
 
-Lastly, I want my fossil interests with the software community. Here are my favourites:
+Lastly, I want my to share fossil interests with the software community. Here are my favourites:
 
 | ![Hallucigenia](https://upload.wikimedia.org/wikipedia/commons/1/1f/Hallucigenia_smithsonian.JPG) | ![Pikaia](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Pikaia_Smithsonian.JPG/220px-Pikaia_Smithsonian.JPG) |
 | --- | --- |
