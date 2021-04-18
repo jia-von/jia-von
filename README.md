@@ -9,7 +9,7 @@ I'm Jia! I am currently a burgeoning software developer interested in numerous a
 - Completing [Ubuntu Linux Bible](https://www.amazon.ca/Linux-Bible-Christopher-Negus/dp/111821854X) exercises - Chapter 3
 - A Beginner’s Guide to Linux Kernel Development ([LFD103](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/))
 
-### Skills
+### Experience
 - 🖥️ JavaScript - ReactJS - MySQL - PHP - .NET CORE
 - 🗄️ Basic Linux system administration
 - ☁️ Cloud technologies: Docker, AWS
