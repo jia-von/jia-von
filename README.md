@@ -22,7 +22,7 @@ I am still learning the ropes and you are welcome to give me any feedback. Curre
 - Completing [Ubuntu Linux Bible](https://www.amazon.ca/Linux-Bible-Christopher-Negus/dp/111821854X) exercises - Chapter 3
 
 ### TL;DR
-My interest in Linux started on December 2020, when I was introduced to my first Raspberry Pi 4. That Christmas gift changed my view and relationship with computers forever. I have been exploring and engaging with Linux ever since. 
+My interest in Linux started on December 2020, when I was introduced to my first Raspberry Pi 4. That Christmas gift changed my view and relationship with computers forever. I have been exploring and engaging with Linux and Open Source Software ever since. 
 
 Lastly, I want my to share fossil interests with the software community. Here are my favourites:
 
