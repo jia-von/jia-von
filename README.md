@@ -1,7 +1,7 @@
-### TL;DR
+### TL;DR 😊
 Bonjour! My interest in Linux started on December 2020, when I was introduced to my first Raspberry Pi 4. That Christmas gift changed my view and relationship with computers forever. I have been exploring and engaging with Linux and Open Source Software ever since. 
 
-### Current Setup
+### Current Setup 🖥
 - Operating System: Ubuntu 22.04 LTS / Windows 11 both running natively.
 - 
 
@@ -18,13 +18,13 @@ I love building, testing, and tinkering with software and hardwares. I truly enj
 - [x] Chapter 26: Shifting to Clouds and Containers
 - [x] Chapter 27: Deploying Linux to the Public Cloud
 
-#### Software Defined Radio 
+#### Software Defined Radio 📻
 - [x] Building ADS-B Aircraft RADAR
 - [x] P25 Phase 2 Digital Voice Decoding with OP25
 - [x] Following Trunked Radio
 - [x] Receiving and decoding packets from ORBCOMM satellites 
 
-#### Raspberry Pi
+#### Raspberry Pi 🕹
 - [x] [Pi-hole](https://pi-hole.net/)
 - [x] [Py-Enigma](https://py-enigma.readthedocs.io/en/latest/) 
 
