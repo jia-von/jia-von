@@ -27,6 +27,11 @@ I love building, testing, and tinkering with software and hardwares. I truly enj
 #### Raspberry Pi 🕹
 - [x] [Pi-hole](https://pi-hole.net/)
 - [x] [Py-Enigma](https://py-enigma.readthedocs.io/en/latest/) 
+- [ ] [Build a line-following robot](https://projects.raspberrypi.org/en/projects/rpi-python-line-following)
+- [ ] [Fetching the weather](https://projects.raspberrypi.org/en/projects/fetching-the-weather/0)
+- [ ] [GPIO music box](https://projects.raspberrypi.org/en/projects/gpio-music-box/0)
+- [ ] [Graphing the weather](https://projects.raspberrypi.org/en/projects/graphing-the-weather/0)
+- [ ] [Mapping the Weather](https://projects.raspberrypi.org/en/projects/mapping-the-weather/0)
 
 
 
