@@ -1,10 +1,6 @@
 ### TL;DR 😊
 Bonjour! My interest in Linux started on December 2020, when I was introduced to my first Raspberry Pi 4. That Christmas gift changed my view and relationship with computers forever. I have been exploring and engaging with Linux and Open Source Software ever since. 
 
-### Current Setup 🖥
-- Operating System: Ubuntu 22.04 LTS / Windows 11 both running natively.
-- 
-
 ### Languages
 - Python
 - Java
