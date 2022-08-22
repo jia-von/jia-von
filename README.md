@@ -16,6 +16,10 @@ I'm Jia! I am currently a burgeoning software developer interested in numerous a
 - 🏞️ Avid hiker, I love mountains!
 - 🤓 Getting technical with geology during casual dinner conversations
 
+### Current Setup
+- Operating System: Ubuntu 22.04 LTS / Windows 11 both running natively.
+- 
+
 ### Current Projects
 I am still learning the ropes and you are welcome to give me any feedback. Current projects I am working on myself or completed:
 #### [Ubuntu Linux Bible](https://www.amazon.ca/Linux-Bible-Christopher-Negus/dp/111821854X) 
