@@ -15,6 +15,7 @@ Bonjour! My interest in Linux started on December 2020, when I was introduced to
 I love building, testing, and tinkering with software and hardwares. I truly enjoy the essence of programming itself and it brings me joy. It is odd but I just like coding regardless of stack, framework, or language. 
 
 #### [Ubuntu Linux Bible](https://www.amazon.ca/Linux-Bible-Christopher-Negus/dp/111821854X) 
+- [x] Part I: Getting Started
 - [x] Chapter 26: Shifting to Clouds and Containers
 - [x] Chapter 27: Deploying Linux to the Public Cloud
 - [ ] Chapter 28: Automating Apps and Infrastructure with Ansible
