@@ -24,5 +24,9 @@ I love building, testing, and tinkering with software and hardwares. I truly enj
 - [x] Following Trunked Radio
 - [x] Receiving and decoding packets from ORBCOMM satellites 
 
+#### Raspberry Pi
+- [x] [Pi-hole](https://pi-hole.net/)
+- [x] [Py-Enigma](https://py-enigma.readthedocs.io/en/latest/) 
+
 
 
