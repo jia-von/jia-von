@@ -14,7 +14,6 @@ I'm Jia! I am currently a burgeoning software developer interested in numerous a
 - 📎 Technical writing/software documentation
 - 🌲 Environmental data analyses
 - 🏞️ Avid hiker, I love mountains!
-- 🗺️ Cartogarphy
 - 🤓 Getting technical with geology during casual dinner conversations
 
 ### Current Projects
