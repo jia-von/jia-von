@@ -15,6 +15,7 @@ I love building, testing, and tinkering with software and hardwares. I truly enj
 - [x] Chapter 26: Shifting to Clouds and Containers
 - [x] Chapter 27: Deploying Linux to the Public Cloud
 - [ ] Chapter 28: Automating Apps and Infrastructure with Ansible
+- [ ] Chapter 29: Deploying Applications as Containers with Kubernetes
 
 #### Software Defined Radio 📻
 - [x] Building ADS-B Aircraft RADAR
