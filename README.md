@@ -12,6 +12,8 @@ I love building, testing, and tinkering with software and hardwares. I truly enj
 
 #### [Ubuntu Linux Bible](https://www.amazon.ca/Linux-Bible-Christopher-Negus/dp/111821854X) 
 - [x] Part I: Getting Started
+- [x] Part III: Becoming a Linux System Administrator
+- [ ] Part IV: Becoming a Linux Server Administrator
 - [x] Chapter 26: Shifting to Clouds and Containers
 - [x] Chapter 27: Deploying Linux to the Public Cloud
 - [ ] Chapter 28: Automating Apps and Infrastructure with Ansible
