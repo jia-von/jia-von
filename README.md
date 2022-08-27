@@ -1,11 +1,14 @@
 ### TL;DR 😊
 Bonjour! My interest in Linux started on December 2020, when I was introduced to my first Raspberry Pi 4. That Christmas gift changed my view and relationship with computers forever. I have been exploring and engaging with Linux and Open Source Software ever since. 
 
-### Languages
+### Skills
 - Python
 - Java
 - Javascript - HTML - CSS - PHP - SQL
 - Bash Shell Scripting
+- Docker
+- Kubernetes
+- LXD/LXC
 
 ### Projects
 I love building, testing, and tinkering with software and hardwares. I truly enjoy the essence of programming itself and it brings me joy. It is odd but I just like coding regardless of stack, framework, or language. 
@@ -13,10 +16,7 @@ I love building, testing, and tinkering with software and hardwares. I truly enj
 #### [Ubuntu Linux Bible](https://www.amazon.ca/Linux-Bible-Christopher-Negus/dp/111821854X) 
 - [x] Part I: Getting Started
 - [x] Part III: Becoming a Linux System Administrator
-- [x] Chapter 26: Shifting to Clouds and Containers
-- [x] Chapter 27: Deploying Linux to the Public Cloud
-- [ ] Chapter 28: Automating Apps and Infrastructure with Ansible
-- [x] Chapter 29: Deploying Applications as Containers with Kubernetes
+- [x] Part VI: Engaging with Cloud Computing
 
 #### Software Defined Radio 📻
 - [x] Building ADS-B Aircraft RADAR
