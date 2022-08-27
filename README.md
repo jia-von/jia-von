@@ -16,6 +16,9 @@ I love building, testing, and tinkering with software and hardwares. I truly enj
 #### [Ubuntu Linux Bible](https://www.amazon.ca/Linux-Bible-Christopher-Negus/dp/111821854X) 
 - [x] Part I: Getting Started
 - [x] Part III: Becoming a Linux System Administrator
+- [ ] Part II: Becoming a Linux Power User
+- [ ] Part IV: Becoming a Linux Server Administrator
+- [ ] Part V: Learning Linux Security Techniques
 - [x] Part VI: Engaging with Cloud Computing
 
 #### Software Defined Radio 📻
