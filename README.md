@@ -13,23 +13,9 @@ Bonjour! My interest in Linux started on December 2020, when I was introduced to
 ### Projects
 I love building, testing, and tinkering with software and hardwares. I truly enjoy the essence of programming itself and it brings me joy. It is odd but I just like coding regardless of stack, framework, or language. 
 
-#### [Ubuntu Linux Bible](https://www.amazon.ca/Linux-Bible-Christopher-Negus/dp/111821854X) 
-- [x] Part I: Getting Started
-- [x] Part III: Becoming a Linux System Administrator
-- [x] Part II: Becoming a Linux Power User
-- [x] Part IV: Becoming a Linux Server Administrator
-- [ ] Part V: Learning Linux Security Techniques
-- [x] Part VI: Engaging with Cloud Computing
-
-#### Software Defined Radio 📻
-- [x] Building ADS-B Aircraft RADAR
-- [x] P25 Phase 2 Digital Voice Decoding with OP25
-- [x] Following Trunked Radio
-- [x] Receiving and decoding packets from ORBCOMM satellites 
-- [ ] Receiving NOAA Weather Satellite Images
-- [ ] GPS Decoding and Plotting
-
-#### Raspberry Pi 🕹
+#### [Ubuntu Linux Bible](https://github.com/jia-von/physalia-physalis) 
+#### [Software Defined Radio](https://github.com/jia-von/physalia-physalis) 📻
+#### [Raspberry Pi](https://github.com/jia-von/physalia-physalis) 🕹
 - [x] [Pi-hole](https://pi-hole.net/)
 - [x] [Py-Enigma](https://py-enigma.readthedocs.io/en/latest/) 
 - [ ] [Build a line-following robot](https://projects.raspberrypi.org/en/projects/rpi-python-line-following)
